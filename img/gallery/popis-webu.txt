@@ -1,0 +1,54 @@
+nomad-room-praha-kamyk.txt
+=====================
+vZaložit stránku na vlastní doméně kde budu nabízet  pronájmem.
+
+domeny:
+nomade home
+digital nomad 
+digital nomad home prague
+nomad home prague
+
+
+inspirovat se:
+https://www.retreat.cz/?s=09
+
+stranky:
+- internet
+- cenik a objednavka
+ Místo poplatek 50kc osoba noc(každý započatý den)
+(
+pak si to ja udelam:
+jako JS udelat interkatnivni formular pro vypocet ceny
+formular pro objednani, kde bude zadane dny a pocet osob
+)
+Cena za noc +DPH
+- checin checkout
+Příchod 15-19hod
+Odchod 10hod
+- kontakt: kontakty + kontaktni formular
+
+- kalendar: vlozit tam google kalendar
+
+- umisteni: adresa, mapka,
+- vybava: seznam vcetne fotek
+
+vlastnosti:
+-------------------
+multi jazycnei:CZ,EN, DE, ES
+vlozit video - hlavne pak pokud jde o lhotu
+reference od lidi co to tam navstivili - v DB a preklady
+cenik v DB cena CZK a EUR
+clanky?
+sitemapa
+SEO
+galerie fotek? asi udelat jako mam jinde, ze po rozkliknuti se zvetsi, jak mit ulozene fotky?
+
+
+klicova slova:
+----------------------
+pronajem pokoje praha
+rent room prague
+digital nomad
+remote work
+room for nomad
+pozdeji pronajimat oba dva pokoje nebo cely byt 
