@@ -438,6 +438,9 @@ header .intro-text {
 	background: #1f386e;
 	color: rgba(255,255,255,.65);
 }
+#contact .contact-desc {
+	margin-bottom:24px;
+}
 #contact .section-title {
 	margin-bottom: 40px;
 }
