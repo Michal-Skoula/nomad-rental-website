@@ -543,6 +543,14 @@ color: #777;
 #contact .social i.fa:hover {
 	color: #fff;
 }
+
+#contact a {
+	color: rgba(255, 255, 255, 1);
+}
+
+#contact a:hover {
+	color: red;
+}
 /* Footer Section*/
 #footer {
 	background: #f6f6f6;
